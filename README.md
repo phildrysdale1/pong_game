@@ -1,7 +1,7 @@
 # pong_game
  A simple attempt at making a pong game
 
-##Mechanics
+## Mechanics
 * Ball physics
 * 2 player control of paddles
 * Scoring
